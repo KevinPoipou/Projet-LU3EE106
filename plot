@@ -26,7 +26,7 @@ plt.suptitle("Titre")
 plt.xlabel("x")
 plt.ylabel("Temps")
 plt.ylim(-1,10)
-#for i in range(len(test.x)) :
+
 plt.scatter(a1.x, np.full(len(a1.x),a1.y), c=a1.t, cmap='jet')
 plt.scatter(a2.x, np.full(len(a2.x),a2.y), c=a2.t, cmap='jet')
 plt.colorbar(label = "Temperature")
