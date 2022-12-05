@@ -1,0 +1,3 @@
+Valeur de K (int ou float)
+Valeur de C (int ou float)
+Valeur de rho (int ou float)
