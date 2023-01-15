@@ -1,0 +1,3 @@
+Valeur de la conductivité thermique K du materiau (valeur entière ou floatante) [W K⁻¹ m⁻¹]
+Valeur de la capacité calorifique C du materiau (valeur entière ou floatante) [J kg⁻¹ K⁻¹]
+Valeur de la masse volumique rho (valeur entière ou floatante) [kg m⁻³]
